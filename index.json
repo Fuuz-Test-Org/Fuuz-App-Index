@@ -1,7 +1,5 @@
 {
-  "schemaVersion": 1,
-  "sources": [
-    { "id": "fuuz-official", "owner": "fuuztest-eng", "repo": "fuuz-official-apps", "ref": "main" }
+  "homeRepos": [
+    { "owner": "fuuz-test-org", "repo": "fuuz-apps-home" }
   ]
 }
-
